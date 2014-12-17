@@ -48,19 +48,3 @@ This will launch IPython in your web browser.
 4) 
 
 
-----
-
-The notebook is divided into 5 sections 
-
-* [Downloading data](#Downloading-Files) 
-
-* [Read aligning: BSMAP](#Running-BSMAP) 
-
-* [Global differences: methylkit](#Global-Differences:-methylkit)  
-
-* [Differentially methylated loci: methylkit](#Differentially-methylated-loci)  
-
-* [Genomic location of DMLs: bedtools](#Genomic-location-of-DMLs)   
-
-
-Please post any comments and questions in issues.
