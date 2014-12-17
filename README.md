@@ -22,9 +22,9 @@ Note the current version of the IPython Notebook can be viewed (not interactive)
 ----
 ##Instructions
 
-1) Download the repository zip file to a local directory and uncompress. This can be done by clicking on the link in the right sidebar or directly downloading: <https://github.com/che625/olson-ms-nb/archive/master.zip>
+**1) Download the repository zip file to a local directory and uncompress.** This can be done by clicking on the link in the right sidebar or directly downloading: <https://github.com/che625/olson-ms-nb/archive/master.zip>
 
-2) Launch IPython from the repository primary directory. 
+**2) Launch IPython from the repository primary directory.** 
 For example, using Terminal on MacOSX.
 
 
@@ -38,14 +38,14 @@ This will launch IPython in your web browser.
 >_screenshot_    
 ![nb](http://eagle.fish.washington.edu/cnidarian/skitch/Home_1A41E21F.png)
 
-3) Open notebook by clicking on **BiGo_dev.ipynb**. This will open a new tab in your browser.
+**3) Open notebook by clicking on `BiGo_dev.ipynb`**. This will open a new tab in your browser.
 
 >_screenshot_  
 ![nb2](http://eagle.fish.washington.edu/cnidarian/skitch/BiGo_dev_1A41E5C5.png)  
 
 
 
-4) In theory, assuming all dependencies are installed
+**4) Execute cells in notebook** The first section of the notebook includes code to download raw data in `wd` subdirectory.  In theory, assuming all dependencies are installed
 
 * BSMAP   
 * bedtools   
