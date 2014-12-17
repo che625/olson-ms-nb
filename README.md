@@ -1,5 +1,5 @@
 
-### IPython Notebook for downloading and analyzing data from preprint: "Indication of family-specific DNA methylation patterns in developing oysters"
+### IPython Notebook for downloading and analyzing data from preprint: "_Indication of family-specific DNA methylation patterns in developing oysters_"
 [http://dx.doi.org/10.1101/012831](http://dx.doi.org/10.1101/012831)
 
 ---
@@ -9,14 +9,14 @@ The repository includes a IPython notebook (.ipynb file) that can be downloaded 
 ---
 To execute the IPython Notebook in its entirety you will need:   
 
-* IPython     
-* BSMAP   
-* bedtools   
-* R   
-* rpy2 (interface to R from Python)   
+* IPython - [install instructions](http://ipython.org/install.html)    
+* BSMAP - [install instructions](https://code.google.com/p/bsmap/)   
+* bedtools - [install instructions](https://github.com/arq5x/bedtools2/releases/tag/v2.22.0)    
+* R - [install instructions](http://www.r-project.org/)  
+* rpy2 (interface to R from Python) - [install instructions](http://rpy.sourceforge.net/)  
 
 ---
-Note the current version of the IPython Notebook can be viewed (not interactive) with in web browser at: 
+Note the current version of the IPython Notebook can be viewed (not interactive) in any web browser at: 
 <http://nbviewer.ipython.org/github/che625/olson-ms-nb/blob/master/BiGo_dev.ipynb>
 
 ----
@@ -45,6 +45,21 @@ This will launch IPython in your web browser.
 
 
 
-4) 
+4) In theory, assuming all dependencies are installed
 
+* BSMAP   
+* bedtools   
+* R   
+* rpy2 (interface to R from Python)  
+
+you could edit the cell near the top to provide the location of BSMAP on your machine, then run all cells (see screenshot). Raw data will be downloaded, and analyses carried out, producing figures (2) in manuscript. Please note data is very large (>20 GB) and analyses will take several hours depending on your machine.
+
+>_screenshot_   
+![nb3](http://eagle.fish.washington.edu/cnidarian/skitch/BiGo_dev_1A41EC5B.png)
+
+In practice, you can execute cells individually with `shift-enter`.
+
+---
+
+We are actively trying to improve this realizing that we are likely missing dependancies, etc. Any suggestions and feedback is welcome. 
 
