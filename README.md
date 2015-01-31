@@ -16,12 +16,13 @@ To execute the IPython Notebook in its entirety you will need:
 * rpy2 (interface to R from Python) - [install instructions](http://rpy.sourceforge.net/)  
 
 ---
-Sofware versions originally used in this analyses (on Mac OS X v10.7.5) are as follows:
-* IPython: 2.3.0
-* BSMAP: 2.74
-* bedtools: 2.17.0
-* R: 3.1.1
-* rpy2: 2.5.0
+Sofware versions originally used in this analyses (on Mac OS X v10.7.5) are as follows: 
+
+* IPython: 2.3.0   
+* BSMAP: 2.74   
+* bedtools: 2.17.0   
+* R: 3.1.1  
+* rpy2: 2.5.0   
 
 ---
 Note the current version of the IPython Notebook can be viewed (not interactive) in any web browser at: 
