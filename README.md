@@ -1,6 +1,5 @@
 
-### IPython Notebook for downloading and analyzing data from preprint: "_Indication of family-specific DNA methylation patterns in developing oysters_"
-[http://dx.doi.org/10.1101/012831](http://dx.doi.org/10.1101/012831)
+### IPython Notebook for downloading and analyzing data from the manuscript: "_Indication of family-specific DNA methylation patterns in developing oysters_"
 
 ---
 
