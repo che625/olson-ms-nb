@@ -1,0 +1,63 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,CGI_ID,SPID,evalue,Description
+scaffold1036,133598,133598,DML_dev,scaffold1036,subtractBed,intrn,132575,134319,.,-,.,Parent,CGI_10019949,CGI_10019949,P33316,9E-63,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial"
+scaffold1056,48341,48341,DML_dev,scaffold1056,subtractBed,intrn,47960,49533,.,+,.,Parent,CGI_10010176,CGI_10010176,Q5SPX1,3E-82,Coiled-coil domain-containing protein 157
+scaffold1103,36043,36043,DML_dev,scaffold1103,subtractBed,intrn,33370,37079,.,-,.,Parent,CGI_10004869,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1103,28814,28814,DML_dev,scaffold1103,subtractBed,intrn,27331,29386,.,-,.,Parent,CGI_10004869,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1103,30261,30261,DML_dev,scaffold1103,subtractBed,intrn,29444,31472,.,-,.,Parent,CGI_10004869,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1117,13843,13843,DML_dev,scaffold1117,subtractBed,intrn,13786,14038,.,+,.,Parent,CGI_10002970,,,,
+scaffold12,328345,328345,DML_dev,scaffold12,subtractBed,intrn,326624,329190,.,+,.,Parent,CGI_10018042,CGI_10018042,P17140,0,Collagen alpha-2(IV) chain
+scaffold120,283584,283584,DML_dev,scaffold120,subtractBed,intrn,281309,285162,.,-,.,Parent,CGI_10017538,CGI_10017538,Q9Y493,9E-50,Zonadhesin
+scaffold121,505541,505541,DML_dev,scaffold121,subtractBed,intrn,505030,508524,.,-,.,Parent,CGI_10025657,,,,
+scaffold1219,735756,735756,DML_dev,scaffold1219,subtractBed,intrn,730370,737244,.,+,.,Parent,CGI_10024296,CGI_10024296,Q8K0U4,2E-103,Heat shock 70 kDa protein 12A
+scaffold1227,137921,137921,DML_dev,scaffold1227,subtractBed,intrn,137557,139069,.,-,.,Parent,CGI_10010051,CGI_10010051,A7Y2W8,3E-12,Sodium- and chloride-dependent glycine transporter 1
+scaffold1264,136257,136257,DML_dev,scaffold1264,subtractBed,intrn,135293,139827,.,-,.,Parent,CGI_10007176,,,,
+scaffold1279,24606,24606,DML_dev,scaffold1279,subtractBed,intrn,13485,26096,.,-,.,Parent,CGI_10004028,,,,
+scaffold1297,43485,43485,DML_dev,scaffold1297,subtractBed,intrn,43058,44184,.,+,.,Parent,CGI_10003521,CGI_10003521,Q14315,0,Filamin-C
+scaffold1307,395356,395356,DML_dev,scaffold1307,subtractBed,intrn,394906,397187,.,+,.,Parent,CGI_10023757,CGI_10023757,Q14149,7E-44,MORC family CW-type zinc finger protein 3
+scaffold1307,395356,395356,DML_dev,scaffold1307,subtractBed,intrn,394906,397187,.,-,.,Parent,CGI_10023758,CGI_10023758,Q9Y2Q0,0,Probable phospholipid-transporting ATPase IA
+scaffold1309,67903,67903,DML_dev,scaffold1309,subtractBed,intrn,62756,69201,.,-,.,Parent,CGI_10011559,CGI_10011559,Q5VT40,3E-65,.
+scaffold1337,180233,180233,DML_dev,scaffold1337,subtractBed,intrn,179966,180673,.,+,.,Parent,CGI_10012839,CGI_10012839,Q921L7,1E-29,HemK methyltransferase family member 1
+scaffold1360,382056,382056,DML_dev,scaffold1360,subtractBed,intrn,377035,382323,.,+,.,Parent,CGI_10022652,,,,
+scaffold1362,507730,507730,DML_dev,scaffold1362,subtractBed,intrn,507695,507868,.,+,.,Parent,CGI_10023945,CGI_10023945,P19401,6E-08,"M protein, serotype 12"
+scaffold1385,14426,14426,DML_dev,scaffold1385,subtractBed,intrn,14401,14541,.,-,.,Parent,CGI_10013832,CGI_10013832,Q5XGY9,2E-69,Meiotic nuclear division protein 1 homolog
+scaffold1490,309238,309238,DML_dev,scaffold1490,subtractBed,intrn,308926,312056,.,+,.,Parent,CGI_10014918,CGI_10014918,Q5T089,1E-82,.
+scaffold1532,1594597,1594597,DML_dev,scaffold1532,subtractBed,intrn,1591174,1595202,.,-,.,Parent,CGI_10028312,CGI_10028312,Q864U1,2E-11,Breast cancer type 1 susceptibility protein homolog
+scaffold1532,1594607,1594607,DML_dev,scaffold1532,subtractBed,intrn,1591174,1595202,.,-,.,Parent,CGI_10028312,CGI_10028312,Q864U1,2E-11,Breast cancer type 1 susceptibility protein homolog
+scaffold1533,134024,134024,DML_dev,scaffold1533,subtractBed,intrn,132452,134836,.,+,.,Parent,CGI_10012869,CGI_10012869,Q5F4A1,3E-12,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1533,134039,134039,DML_dev,scaffold1533,subtractBed,intrn,132452,134836,.,+,.,Parent,CGI_10012869,CGI_10012869,Q5F4A1,3E-12,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1600,131556,131556,DML_dev,scaffold1600,subtractBed,intrn,131199,137160,.,+,.,Parent,CGI_10013037,CGI_10013037,Q8TDX9,1E-96,Polycystic kidney disease protein 1-like 1
+scaffold1722,91592,91592,DML_dev,scaffold1722,subtractBed,intrn,90890,91902,.,+,.,Parent,CGI_10014872,CGI_10014872,O95163,0,Elongator complex protein 1
+scaffold1879,102347,102347,DML_dev,scaffold1879,subtractBed,intrn,100461,107525,.,-,.,Parent,CGI_10007957,,,,
+scaffold241,21347,21347,DML_dev,scaffold241,subtractBed,intrn,19833,21888,.,+,.,Parent,CGI_10025082,,,,
+scaffold241,21356,21356,DML_dev,scaffold241,subtractBed,intrn,19833,21888,.,+,.,Parent,CGI_10025082,,,,
+scaffold246,17242,17242,DML_dev,scaffold246,subtractBed,intrn,16125,19130,.,+,.,Parent,CGI_10001799,CGI_10001799,Q8BJ48,4E-07,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+scaffold252,29646,29646,DML_dev,scaffold252,subtractBed,intrn,28578,37397,.,-,.,Parent,CGI_10010758,CGI_10010758,P31319,0,cAMP-dependent protein kinase regulatory subunit
+scaffold3,197079,197079,DML_dev,scaffold3,subtractBed,intrn,193014,198020,.,-,.,Parent,CGI_10027281,,,,
+scaffold364,30266,30266,DML_dev,scaffold364,subtractBed,intrn,23123,30639,.,+,.,Parent,CGI_10022675,CGI_10022675,P24043,0,Laminin subunit alpha-2
+scaffold36406,11429,11429,DML_dev,scaffold36406,subtractBed,intrn,11003,18752,.,-,.,Parent,CGI_10001890,,,,
+scaffold36812,6012,6012,DML_dev,scaffold36812,subtractBed,intrn,5583,7002,.,+,.,Parent,CGI_10002143,CGI_10002143,P04412,6E-60,Epidermal growth factor receptor
+scaffold39122,20287,20287,DML_dev,scaffold39122,subtractBed,intrn,16719,21290,.,-,.,Parent,CGI_10003164,CGI_10003164,Q9UBT7,7E-34,Alpha-catulin
+scaffold41164,53315,53315,DML_dev,scaffold41164,subtractBed,intrn,52456,54261,.,+,.,Parent,CGI_10004762,CGI_10004762,P24051,1E-50,40S ribosomal protein S27-like
+scaffold41164,53335,53335,DML_dev,scaffold41164,subtractBed,intrn,52456,54261,.,+,.,Parent,CGI_10004762,CGI_10004762,P24051,1E-50,40S ribosomal protein S27-like
+scaffold412,343846,343846,DML_dev,scaffold412,subtractBed,intrn,339067,345322,.,+,.,Parent,CGI_10018574,CGI_10018574,Q6ING7,0,FAD synthase
+scaffold42128,85006,85006,DML_dev,scaffold42128,subtractBed,intrn,83873,90053,.,-,.,Parent,CGI_10006197,CGI_10006197,Q9VCX1,3E-65,Regulator of G-protein signaling loco
+scaffold42760,130388,130388,DML_dev,scaffold42760,subtractBed,intrn,127973,133437,.,+,.,Parent,CGI_10007632,CGI_10007632,P22793,2E-13,Trichohyalin
+scaffold42850,184869,184869,DML_dev,scaffold42850,subtractBed,intrn,183903,186721,.,+,.,Parent,CGI_10007930,CGI_10007930,A7RJI7,2E-92,.
+scaffold42850,184869,184869,DML_dev,scaffold42850,subtractBed,intrn,183903,186721,.,-,.,Parent,CGI_10007931,CGI_10007931,Q90YQ0,5E-38,40S ribosomal protein S24
+scaffold43116,66917,66917,DML_dev,scaffold43116,subtractBed,intrn,64769,68879,.,-,.,Parent,CGI_10008809,,,,
+scaffold43708,4442,4442,DML_dev,scaffold43708,subtractBed,intrn,3470,4606,.,-,.,Parent,CGI_10011964,CGI_10011964,Q9Y490,0,Talin-1
+scaffold43708,48257,48257,DML_dev,scaffold43708,subtractBed,intrn,47448,50759,.,-,.,Parent,CGI_10011965,,,,
+scaffold44008,45290,45290,DML_dev,scaffold44008,subtractBed,intrn,37444,45740,.,-,.,Parent,CGI_10015282,CGI_10015282,Q6ZTR7,1E-45,.
+scaffold514,121218,121218,DML_dev,scaffold514,subtractBed,intrn,119278,121559,.,-,.,Parent,CGI_10018346,CGI_10018346,A2A9C3,1E-157,Protein SZT2
+scaffold532,46292,46292,DML_dev,scaffold532,subtractBed,intrn,45000,47499,.,+,.,Parent,CGI_10012520,CGI_10012520,Q0P5X1,6E-58,Leucine-rich repeat and IQ domain-containing protein 1
+scaffold606,266817,266817,DML_dev,scaffold606,subtractBed,intrn,259570,270777,.,+,.,Parent,CGI_10012951,CGI_10012951,Q9Z1P6,7E-14,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7
+scaffold659,155602,155602,DML_dev,scaffold659,subtractBed,intrn,155067,156397,.,-,.,Parent,CGI_10014702,CGI_10014702,Q7Z442,2E-31,Polycystic kidney disease protein 1-like 2
+scaffold721,379153,379153,DML_dev,scaffold721,subtractBed,intrn,377852,379235,.,+,.,Parent,CGI_10022002,CGI_10022002,Q5RF77,1E-44,E3 ubiquitin-protein ligase CHFR
+scaffold760,397593,397593,DML_dev,scaffold760,subtractBed,intrn,395249,400391,.,-,.,Parent,CGI_10023987,CGI_10023987,E7F888,6E-33,AT-rich interactive domain-containing protein 5B
+scaffold786,31882,31882,DML_dev,scaffold786,subtractBed,intrn,29045,34943,.,-,.,Parent,CGI_10013691,CGI_10013691,Q9VI75,2E-91,Phosphatidylinositol-binding clathrin assembly protein LAP
+scaffold850,64019,64019,DML_dev,scaffold850,subtractBed,intrn,63803,64708,.,-,.,Parent,CGI_10011234,CGI_10011234,Q86TI2,3E-138,Dipeptidyl peptidase 9
+scaffold852,66803,66803,DML_dev,scaffold852,subtractBed,intrn,66526,71731,.,+,.,Parent,CGI_10012036,,,,
+scaffold868,93285,93285,DML_dev,scaffold868,subtractBed,intrn,92561,101536,.,-,.,Parent,CGI_10006359,CGI_10006359,O43301,5E-68,Heat shock 70 kDa protein 12A
+scaffold948,260196,260196,DML_dev,scaffold948,subtractBed,intrn,260031,262097,.,+,.,Parent,CGI_10020015,CGI_10020015,Q9C0G6,0,"Dynein heavy chain 6, axonemal"
+scaffold992,63410,63410,DML_dev,scaffold992,subtractBed,intrn,63156,63874,.,-,.,Parent,CGI_10007507,CGI_10007507,Q8K1X1,5E-173,WD repeat-containing protein 11
+scaffold998,103542,103542,DML_dev,scaffold998,subtractBed,intrn,94224,103922,.,-,.,Parent,CGI_10006464,,,,
