@@ -1,0 +1,68 @@
+Column1,Column2,Column4,feature,CGI_ID,SPID,evalue,Description
+scaffold105,2443,DML_lin,exon,,,,
+scaffold1404,121205,DML_lin,exon,CGI_10008830,Q9Y4E8,1.00E-36,Ubiquitin carboxyl-terminal hydrolase 15
+scaffold142,1002225,DML_lin,exon,CGI_10026783,P97868,8.00E-88,E3 ubiquitin-protein ligase RBBP6
+scaffold165,27245,DML_lin,exon,CGI_10015306,Q9Y4B4,2.00E-52,Helicase ARIP4
+scaffold1650,402398,DML_lin,exon,,,,
+scaffold1795,46149,DML_lin,exon,CGI_10002548,Q9ESN6,7.00E-10,Tripartite motif-containing protein 2
+scaffold315,334918,DML_lin,exon,CGI_10020419,Q8VCY6,4.00E-50,U3 small nucleolar RNA-associated protein 6 homolog
+scaffold348,685814,DML_lin,exon,CGI_10022997,Q8VQ99,3.00E-16,Serine-rich adhesin for platelets
+scaffold39198,59072,DML_lin,exon,CGI_10003210,Q6ZMN7,5.00E-22,PDZ domain-containing RING finger protein 4
+scaffold41954,124213,DML_lin,exon,CGI_10005854,Q9H2Y7,2.00E-47,Zinc finger protein 106 homolog
+scaffold42648,112742,DML_lin,exon,,,,
+scaffold42648,112854,DML_lin,exon,,,,
+scaffold42648,112935,DML_lin,exon,,,,
+scaffold42836,13711,DML_lin,exon,CGI_10007854,Q6IQU7,1.00E-25,Integrator complex subunit 12
+scaffold43072,38049,DML_lin,exon,CGI_10008697,Q9UIF8,2.00E-108,Bromodomain adjacent to zinc finger domain protein 2B
+scaffold43798,327208,DML_lin,exon,,,,
+scaffold43798,327228,DML_lin,exon,,,,
+scaffold54,79558,DML_lin,exon,,,,
+scaffold591,842764,DML_lin,exon,,,,
+scaffold625,751281,DML_lin,exon,CGI_10023437,Q9BXT4,2.00E-46,Tudor domain-containing protein 1
+scaffold695,314576,DML_lin,exon,CGI_10023281,Q9UKK3,0,Poly [ADP-ribose] polymerase 4
+scaffold695,315092,DML_lin,exon,CGI_10023281,Q9UKK3,0,Poly [ADP-ribose] polymerase 4
+scaffold760,777234,DML_lin,exon,CGI_10024010,Q80U87,3.00E-128,Ubiquitin carboxyl-terminal hydrolase 8
+scaffold825,91302,DML_lin,exon,,,,
+scaffold853,461655,DML_lin,exon,,,,
+scaffold1052,37566,DML_lin,intrn,CGI_10005467,B2RX88,2.00E-15,Centrosome and spindle pole associated protein 1
+scaffold1103,30261,DML_lin,intrn,CGI_10004869,Q5RJY2,4.00E-19,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold126,406978,DML_lin,intrn,CGI_10019197,,,
+scaffold1360,383393,DML_lin,intrn,CGI_10022652,,,
+scaffold1478,5475,DML_lin,intrn,CGI_10000895,Q9VR81,4.00E-25,Putative N-acetylglucosamine-6-phosphate deacetylase
+scaffold1507,7227,DML_lin,intrn,CGI_10001767,,,
+scaffold152,298664,DML_lin,intrn,CGI_10014898,,,
+scaffold156,49143,DML_lin,intrn,CGI_10026475,,,
+scaffold1564,97278,DML_lin,intrn,CGI_10005199,Q6NZ06,1.00E-175,Interleukin enhancer-binding factor 2 homolog
+scaffold1650,402672,DML_lin,intrn,CGI_10017781,,,
+scaffold1772,376431,DML_lin,intrn,CGI_10014820,,,
+scaffold1795,36143,DML_lin,intrn,CGI_10002547,Q5ZLT0,0,Exportin-7
+scaffold194,252314,DML_lin,intrn,CGI_10011068,,,
+scaffold200,36930,DML_lin,intrn,CGI_10006223,P03856,6.00E-43,Replication initiation protein
+scaffold22,543567,DML_lin,intrn,CGI_10028859,Q587J7,8.00E-86,Tudor domain-containing protein 12
+scaffold33248,7861,DML_lin,intrn,CGI_10000979,Q071E0,4.00E-13,N-lysine methyltransferase SETD8-A
+scaffold39600,69408,DML_lin,intrn,CGI_10003465,,,
+scaffold412,270582,DML_lin,intrn,CGI_10018571,F8WLE0,9.00E-160,Kinesin-like protein KLP6
+scaffold41550,10799,DML_lin,intrn,CGI_10005235,,,
+scaffold42214,47132,DML_lin,intrn,CGI_10006408,Q8K310,2.00E-12,Matrin-3
+scaffold42924,40904,DML_lin,intrn,CGI_10008185,P12545,1.00E-68,Plasminogen
+scaffold43184,91564,DML_lin,intrn,CGI_10009112,Q28BK1,0,E3 ubiquitin-protein ligase HACE1
+scaffold43278,123414,DML_lin,intrn,CGI_10009622,Q62901,2.00E-17,Arginine-glutamic acid dipeptide repeats protein
+scaffold43798,327160,DML_lin,intrn,CGI_10012546,,,
+scaffold453,307705,DML_lin,intrn,CGI_10015048,,,
+scaffold453,307734,DML_lin,intrn,CGI_10015048,,,
+scaffold453,307739,DML_lin,intrn,CGI_10015048,,,
+scaffold453,307741,DML_lin,intrn,CGI_10015048,,,
+scaffold471,1229927,DML_lin,intrn,CGI_10027038,,,
+scaffold481,1053699,DML_lin,intrn,CGI_10027259,,,
+scaffold485,895404,DML_lin,intrn,CGI_10024200,,,
+scaffold485,895451,DML_lin,intrn,CGI_10024200,,,
+scaffold557,404929,DML_lin,intrn,CGI_10017980,P04069,7.00E-79,Carboxypeptidase B
+scaffold557,404982,DML_lin,intrn,CGI_10017980,P04069,7.00E-79,Carboxypeptidase B
+scaffold557,404994,DML_lin,intrn,CGI_10017980,P04069,7.00E-79,Carboxypeptidase B
+scaffold557,405416,DML_lin,intrn,CGI_10017980,P04069,7.00E-79,Carboxypeptidase B
+scaffold721,378853,DML_lin,intrn,CGI_10022002,Q5RF77,1.00E-44,E3 ubiquitin-protein ligase CHFR
+scaffold754,266479,DML_lin,intrn,CGI_10014078,,,
+scaffold759,199428,DML_lin,intrn,CGI_10010778,B4F6I5,2.00E-141,Adenosine monophosphate-protein transferase FICD
+scaffold759,205567,DML_lin,intrn,CGI_10010779,Q6DRI7,6.00E-140,ATP-dependent RNA helicase DDX51
+scaffold760,128351,DML_lin,intrn,CGI_10023976,,,
+scaffold815,20326,DML_lin,intrn,CGI_10001932,Q80V70,4.00E-06,Multiple epidermal growth factor-like domains protein 6
