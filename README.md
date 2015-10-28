@@ -3,7 +3,7 @@
 
 ---
 
-The repository includes a IPython notebook (.ipynb file) that can be downloaded and interactively executed. The code in the IPython notebook will download raw data and process data such that figures in the manuscript are reproduced (in theory). 
+The repository includes a IPython notebook (.ipynb file) that can be downloaded and interactively executed. The code in the IPython notebook will download raw data and process data such that figures in the manuscript are reproduced (in theory). gl
 
 ---
 To execute the IPython Notebook in its entirety you will need:   
