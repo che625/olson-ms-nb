@@ -1,0 +1,143 @@
+Column1,Column2,Column4,Column7,Column14,SPID,evalue,Description,Scaffold,start,end,dir,feature,CGI_ID,type,ID,Description
+scaffold1036,133598,DML_dev,intrn,CGI_10019949,P33316,9E-63,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial",scaffold1036,120515,134480,-1,gene,CGI_10019949,transcript,EKC30714,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial "
+scaffold1052,37566,DML_lin,intrn,CGI_10005467,B2RX88,2E-15,Centrosome and spindle pole associated protein 1,scaffold1052,1917,38966,-1,gene,CGI_10005467,transcript,EKC30619,Centrosome and spindle pole-associated protein 1
+scaffold1056,48341,DML_dev,intrn,CGI_10010176,Q5SPX1,3E-82,Coiled-coil domain-containing protein 157,scaffold1056,45732,52165,1,gene,CGI_10010176,transcript,EKC30590,
+scaffold1103,36043,DML_dev,intrn,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase,scaffold1103,24786,37142,-1,gene,CGI_10004869,transcript,EKC30224,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1103,28814,DML_dev,intrn,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase,scaffold1103,24786,37142,-1,gene,CGI_10004869,transcript,EKC30224,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1103,30261,DML_dev,intrn,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase,scaffold1103,24786,37142,-1,gene,CGI_10004869,transcript,EKC30224,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1103,30261,DML_lin,intrn,CGI_10004869,Q5RJY2,4E-19,G2/M phase-specific E3 ubiquitin-protein ligase,scaffold1103,24786,37142,-1,gene,CGI_10004869,transcript,EKC30224,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1117,13843,DML_dev,intrn,CGI_10002970,,,,scaffold1117,11683,14467,1,gene,CGI_10002970,transcript,EKC30091,Laminin subunit beta-1
+scaffold12,328345,DML_dev,intrn,CGI_10018042,P17140,0,Collagen alpha-2(IV) chain,scaffold12,326477,354530,1,gene,CGI_10018042,transcript,EKC43054,Collagen alpha-1(IV) chain
+scaffold120,283584,DML_dev,intrn,CGI_10017538,Q9Y493,9E-50,Zonadhesin,scaffold120,264767,312671,-1,gene,CGI_10017538,transcript,EKC41432,Zonadhesin
+scaffold121,505541,DML_dev,intrn,CGI_10025657,,,,scaffold121,504967,519244,-1,gene,CGI_10025657,transcript,EKC41385,
+scaffold121,658598,DML_dev,CDS,CGI_10025665,Q6ZMV7,1E-39,.,scaffold121,658592,668536,1,gene,CGI_10025665,transcript,EKC41391,"Leucine-, glutamate-and lysine-rich protein 1 "
+scaffold1219,735756,DML_dev,intrn,CGI_10024296,Q8K0U4,2E-103,Heat shock 70 kDa protein 12A,scaffold1219,730073,738881,1,gene,CGI_10024296,transcript,EKC29173,Heat shock 70 kDa protein 12B
+scaffold1227,137921,DML_dev,intrn,CGI_10010051,A7Y2W8,3E-12,Sodium- and chloride-dependent glycine transporter 1,scaffold1227,125342,139160,-1,gene,CGI_10010051,transcript,EKC29047,Sodium-and chloride-dependent glycine transporter 1
+scaffold126,406978,DML_lin,intrn,CGI_10019197,,,,scaffold126,401847,409297,1,gene,CGI_10019197,transcript,EKC41329,
+scaffold1264,136257,DML_dev,intrn,CGI_10007176,,,,scaffold1264,129263,151960,-1,gene,CGI_10007176,transcript,EKC28672,
+scaffold1279,24606,DML_dev,intrn,CGI_10004028,,,,scaffold1279,103,26229,-1,gene,CGI_10004028,transcript,EKC28595,
+scaffold1297,43485,DML_dev,intrn,CGI_10003521,Q14315,0,Filamin-C,scaffold1297,21158,73778,1,gene,CGI_10003521,transcript,EKC28512,Filamin-C
+scaffold1307,395356,DML_dev,intrn,CGI_10023758,Q9Y2Q0,0,Probable phospholipid-transporting ATPase IA,scaffold1307,392687,427992,-1,gene,CGI_10023758,transcript,EKC28374,Putative phospholipid-transporting ATPase IA
+scaffold1309,67903,DML_dev,intrn,CGI_10011559,Q5VT40,3E-65,.,scaffold1309,58959,69302,-1,gene,CGI_10011559,transcript,EKC28338,Protein FAM78B
+scaffold1360,382056,DML_dev,intrn,CGI_10022652,,,,scaffold1360,377011,383564,1,gene,CGI_10022652,transcript,EKC27868,
+scaffold1360,383393,DML_lin,intrn,CGI_10022652,,,,scaffold1360,377011,383564,1,gene,CGI_10022652,transcript,EKC27868,
+scaffold1362,191576,DML_dev,CDS,CGI_10023933,Q9UH77,1E-28,Kelch-like protein 3,scaffold1362,178873,194785,-1,gene,CGI_10023933,transcript,EKC27809,Kelch-like protein 3
+scaffold1362,507730,DML_dev,intrn,CGI_10023945,P19401,6E-08,"M protein, serotype 12",scaffold1362,502555,508195,1,gene,CGI_10023945,transcript,EKC27820,
+scaffold1404,121205,DML_lin,exon,CGI_10008830,Q9Y4E8,1E-36,Ubiquitin carboxyl-terminal hydrolase 15,scaffold1404,111746,123746,-1,gene,CGI_10008830,transcript,EKC27523,Ubiquitin carboxyl-terminal hydrolase 4
+scaffold142,1002225,DML_lin,exon,CGI_10026783,P97868,8E-88,E3 ubiquitin-protein ligase RBBP6,scaffold142,988947,1002463,1,gene,CGI_10026783,transcript,EKC41192,Retinoblastoma-binding protein 6
+scaffold1478,5475,DML_lin,intrn,CGI_10000895,Q9VR81,4E-25,Putative N-acetylglucosamine-6-phosphate deacetylase,scaffold1478,130,11329,1,gene,CGI_10000895,transcript,EKC27149,Putative N-acetylglucosamine-6-phosphate deacetylase
+scaffold1490,309238,DML_dev,intrn,CGI_10014918,Q5T089,1E-82,.,scaffold1490,302225,316925,1,gene,CGI_10014918,transcript,EKC27097,MORN repeat-containing protein 1
+scaffold152,298664,DML_lin,intrn,CGI_10014898,,,,scaffold152,296688,308228,-1,gene,CGI_10014898,transcript,EKC40868,
+scaffold1532,1594597,DML_dev,intrn,CGI_10028312,Q864U1,2E-11,Breast cancer type 1 susceptibility protein homolog,scaffold1532,1579852,1602581,-1,gene,CGI_10028312,transcript,EKC26772,Breast cancer type 1 susceptibility-like protein
+scaffold1532,1594607,DML_dev,intrn,CGI_10028312,Q864U1,2E-11,Breast cancer type 1 susceptibility protein homolog,scaffold1532,1579852,1602581,-1,gene,CGI_10028312,transcript,EKC26772,Breast cancer type 1 susceptibility-like protein
+scaffold1533,134024,DML_dev,intrn,CGI_10012869,Q5F4A1,3E-12,G2/M phase-specific E3 ubiquitin-protein ligase,scaffold1533,132420,138063,1,gene,CGI_10012869,transcript,EKC26684,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold1533,134039,DML_dev,intrn,CGI_10012869,Q5F4A1,3E-12,G2/M phase-specific E3 ubiquitin-protein ligase,scaffold1533,132420,138063,1,gene,CGI_10012869,transcript,EKC26684,G2/M phase-specific E3 ubiquitin-protein ligase
+scaffold156,49143,DML_lin,intrn,CGI_10026475,,,,scaffold156,47452,61764,1,gene,CGI_10026475,transcript,EKC40795,
+scaffold1564,97278,DML_lin,intrn,CGI_10005199,Q6NZ06,1E-175,Interleukin enhancer-binding factor 2 homolog,scaffold1564,80148,112523,-1,gene,CGI_10005199,transcript,EKC26532,Interleukin enhancer-binding factor 2-like protein
+scaffold1579,341399,DML_dev,CDS,CGI_10016870,Q08C72,0,Pre-mRNA-splicing factor CWC22 homolog,scaffold1579,332901,342919,1,gene,CGI_10016870,transcript,EKC26428,Pre-mRNA-splicing factor CWC22-like protein
+scaffold1600,131556,DML_dev,intrn,CGI_10013037,Q8TDX9,1E-96,Polycystic kidney disease protein 1-like 1,scaffold1600,112223,169446,1,gene,CGI_10013037,transcript,EKC26130,Polycystic kidney disease protein 1-like 1
+scaffold165,27245,DML_lin,exon,CGI_10015306,Q9Y4B4,2E-52,Helicase ARIP4,scaffold165,26399,28505,1,gene,CGI_10015306,transcript,EKC40574,Helicase ARIP4
+scaffold1650,221318,DML_dev,CDS,CGI_10017775,Q70FJ1,4E-39,A-kinase anchor protein 9,scaffold1650,171974,251292,-1,gene,CGI_10017775,transcript,EKC25787,A-kinase anchor protein 9
+scaffold1650,402672,DML_lin,intrn,CGI_10017781,,,,scaffold1650,402171,406396,-1,gene,CGI_10017781,transcript,EKC25793,
+scaffold169,564998,DML_dev,CDS,CGI_10022958,,,,scaffold169,562612,565291,1,gene,CGI_10022958,transcript,EKC40519,
+scaffold1703,593939,DML_dev,CDS,CGI_10023068,A2VD23,9E-17,Protein starmaker,scaffold1703,593853,609573,1,gene,CGI_10023068,transcript,EKC25448,
+scaffold1722,91592,DML_dev,intrn,CGI_10014872,O95163,0,Elongator complex protein 1,scaffold1722,83189,106196,1,gene,CGI_10014872,transcript,EKC25194,Elongator complex protein 1
+scaffold1772,376431,DML_lin,intrn,CGI_10014820,,,,scaffold1772,373105,378781,-1,gene,CGI_10014820,transcript,EKC24698,Tripartite motif-containing protein 3
+scaffold1795,36143,DML_lin,intrn,CGI_10002547,Q5ZLT0,0,Exportin-7,scaffold1795,18552,37970,1,gene,CGI_10002547,transcript,EKC24459,Exportin-7
+scaffold1795,46149,DML_lin,exon,CGI_10002548,Q9ESN6,7E-10,Tripartite motif-containing protein 2,scaffold1795,44808,46478,-1,gene,CGI_10002548,transcript,EKC24460,Tripartite motif-containing protein 2
+scaffold194,252314,DML_lin,intrn,CGI_10011068,,,,scaffold194,249396,274108,1,gene,CGI_10011068,transcript,EKC40238,
+scaffold22,543567,DML_lin,intrn,CGI_10028859,Q587J7,8E-86,Tudor domain-containing protein 12,scaffold22,524664,550709,1,gene,CGI_10028859,transcript,EKC42887,Tudor domain-containing protein 12
+scaffold241,21347,DML_dev,intrn,CGI_10025082,,,,scaffold241,14170,22719,1,gene,CGI_10025082,transcript,EKC39632,
+scaffold241,21356,DML_dev,intrn,CGI_10025082,,,,scaffold241,14170,22719,1,gene,CGI_10025082,transcript,EKC39632,
+scaffold246,17242,DML_dev,intrn,CGI_10001799,Q8BJ48,4E-07,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,scaffold246,9617,19206,1,gene,CGI_10001799,transcript,EKC39612,
+scaffold252,29646,DML_dev,intrn,CGI_10010758,P31319,0,cAMP-dependent protein kinase regulatory subunit,scaffold252,17489,37661,-1,gene,CGI_10010758,transcript,EKC39556,cAMP-dependent protein kinase regulatory subunit
+scaffold3,197079,DML_dev,intrn,CGI_10027281,,,,scaffold3,156747,206897,-1,gene,CGI_10027281,transcript,EKC43183,Polycystin-1
+scaffold315,334918,DML_lin,exon,CGI_10020419,Q8VCY6,4E-50,U3 small nucleolar RNA-associated protein 6 homolog,scaffold315,334905,352472,1,gene,CGI_10020419,transcript,EKC38747,U3 small nucleolar RNA-associated protein 6-like protein
+scaffold33248,7861,DML_lin,intrn,CGI_10000979,Q071E0,4E-13,N-lysine methyltransferase SETD8-A,scaffold33248,1413,11752,1,gene,CGI_10000979,transcript,EKC22984,Histone-lysine N-methyltransferase pr-set7
+scaffold348,685814,DML_lin,exon,CGI_10022997,Q8VQ99,3E-16,Serine-rich adhesin for platelets,scaffold348,684421,700265,-1,gene,CGI_10022997,transcript,EKC38327,
+scaffold364,30266,DML_dev,intrn,CGI_10022675,P24043,0,Laminin subunit alpha-2,scaffold364,18377,81368,1,gene,CGI_10022675,transcript,EKC38085,Laminin subunit alpha-2
+scaffold36406,11429,DML_dev,intrn,CGI_10001890,,,,scaffold36406,2722,18929,-1,gene,CGI_10001890,transcript,EKC22606,
+scaffold36812,6012,DML_dev,intrn,CGI_10002143,P04412,6E-60,Epidermal growth factor receptor,scaffold36812,3475,12188,1,gene,CGI_10002143,transcript,EKC22512,Epidermal growth factor receptor
+scaffold39122,20287,DML_dev,intrn,CGI_10003164,Q9UBT7,7E-34,Alpha-catulin,scaffold39122,14352,31313,-1,gene,CGI_10003164,transcript,EKC21867,Alpha-catulin
+scaffold39198,58242,DML_dev,CDS,CGI_10003209,,,,scaffold39198,58182,58855,1,gene,CGI_10003209,transcript,EKC21843,
+scaffold39198,59072,DML_lin,exon,CGI_10003210,Q6ZMN7,5E-22,PDZ domain-containing RING finger protein 4,scaffold39198,59024,59251,1,gene,CGI_10003210,transcript,EKC21844,PDZ domain-containing RING finger protein 3
+scaffold39600,69408,DML_lin,intrn,CGI_10003465,,,,scaffold39600,60390,69615,-1,gene,CGI_10003465,transcript,EKC21701,
+scaffold40476,87246,DML_dev,CDS,CGI_10004152,,,,scaffold40476,86850,88366,1,gene,CGI_10004152,transcript,EKC21295,
+scaffold41164,53315,DML_dev,intrn,CGI_10004762,P24051,1E-50,40S ribosomal protein S27-like,scaffold41164,48981,54290,1,gene,CGI_10004762,transcript,EKC21036,40S ribosomal protein S27
+scaffold41164,53335,DML_dev,intrn,CGI_10004762,P24051,1E-50,40S ribosomal protein S27-like,scaffold41164,48981,54290,1,gene,CGI_10004762,transcript,EKC21036,40S ribosomal protein S27
+scaffold412,270582,DML_lin,intrn,CGI_10018571,F8WLE0,9E-160,Kinesin-like protein KLP6,scaffold412,269312,279045,1,gene,CGI_10018571,transcript,EKC37258,Kinesin-related protein 1
+scaffold412,343846,DML_dev,intrn,CGI_10018574,Q6ING7,0,FAD synthase,scaffold412,331345,348153,1,gene,CGI_10018574,transcript,EKC37260,FAD synthetase
+scaffold41954,124213,DML_lin,exon,CGI_10005854,Q9H2Y7,2E-47,Zinc finger protein 106 homolog,scaffold41954,103267,126908,-1,gene,CGI_10005854,transcript,EKC20542,
+scaffold42128,85006,DML_dev,intrn,CGI_10006197,Q9VCX1,3E-65,Regulator of G-protein signaling loco,scaffold42128,75404,100829,-1,gene,CGI_10006197,transcript,EKC20349,Regulator of G-protein signaling 12
+scaffold42190,69545,DML_dev,CDS,CGI_10006336,Q69ZR9,5E-37,Protein FAM208A,scaffold42190,62327,86091,-1,gene,CGI_10006336,transcript,EKC20290,
+scaffold42214,47132,DML_lin,intrn,CGI_10006408,Q8K310,2E-12,Matrin-3,scaffold42214,40793,51967,-1,gene,CGI_10006408,transcript,EKC20268,Matrin-3
+scaffold42760,130388,DML_dev,intrn,CGI_10007632,P22793,2E-13,Trichohyalin,scaffold42760,117597,133590,1,gene,CGI_10007632,transcript,EKC19781,
+scaffold42836,13711,DML_lin,exon,CGI_10007854,Q6IQU7,1E-25,Integrator complex subunit 12,scaffold42836,10467,15300,-1,gene,CGI_10007854,transcript,EKC19696,Integrator complex subunit 12
+scaffold42850,184869,DML_dev,intrn,CGI_10007930,A7RJI7,2E-92,.,scaffold42850,165442,194169,1,gene,CGI_10007930,transcript,EKC19684,
+scaffold42924,40904,DML_lin,intrn,CGI_10008185,P12545,1E-68,Plasminogen,scaffold42924,34345,67833,-1,gene,CGI_10008185,transcript,EKC19589,Plasminogen
+scaffold43072,38049,DML_lin,exon,CGI_10008697,Q9UIF8,2E-108,Bromodomain adjacent to zinc finger domain protein 2B,scaffold43072,22754,55456,-1,gene,CGI_10008697,transcript,EKC19373,Bromodomain adjacent to zinc finger domain protein 2B
+scaffold43184,91564,DML_lin,intrn,CGI_10009112,Q28BK1,0,E3 ubiquitin-protein ligase HACE1,scaffold43184,68911,91926,1,gene,CGI_10009112,transcript,EKC19232,E3 ubiquitin-protein ligase HACE1
+scaffold43278,123414,DML_lin,intrn,CGI_10009622,Q62901,2E-17,Arginine-glutamic acid dipeptide repeats protein,scaffold43278,117279,128440,1,gene,CGI_10009622,transcript,EKC19118,Arginine-glutamic acid dipeptide repeats protein
+scaffold43708,4442,DML_dev,intrn,CGI_10011964,Q9Y490,0,Talin-1,scaffold43708,225,22019,-1,gene,CGI_10011964,transcript,EKC18519,Talin-1
+scaffold43708,48257,DML_dev,intrn,CGI_10011965,,,,scaffold43708,27860,50817,-1,gene,CGI_10011965,transcript,EKC18520,
+scaffold43798,327160,DML_lin,intrn,CGI_10012546,,,,scaffold43798,323858,327921,-1,gene,CGI_10012546,transcript,EKC18437,
+scaffold44008,45290,DML_dev,intrn,CGI_10015282,Q6ZTR7,1E-45,.,scaffold44008,36940,62806,-1,gene,CGI_10015282,transcript,EKC18060,Protein FAM92B
+scaffold445,535996,DML_dev,CDS,CGI_10019453,,,,scaffold445,534739,536160,-1,gene,CGI_10019453,transcript,EKC36793,
+scaffold453,307705,DML_lin,intrn,CGI_10015048,,,,scaffold453,301139,318550,1,gene,CGI_10015048,transcript,EKC36667,
+scaffold453,307734,DML_lin,intrn,CGI_10015048,,,,scaffold453,301139,318550,1,gene,CGI_10015048,transcript,EKC36667,
+scaffold453,307739,DML_lin,intrn,CGI_10015048,,,,scaffold453,301139,318550,1,gene,CGI_10015048,transcript,EKC36667,
+scaffold453,307741,DML_lin,intrn,CGI_10015048,,,,scaffold453,301139,318550,1,gene,CGI_10015048,transcript,EKC36667,
+scaffold471,1229927,DML_lin,intrn,CGI_10027038,,,,scaffold471,1226022,1238861,-1,gene,CGI_10027038,transcript,EKC36496,
+scaffold481,1053699,DML_lin,intrn,CGI_10027259,,,,scaffold481,1047969,1057631,-1,gene,CGI_10027259,transcript,EKC36360,
+scaffold485,895404,DML_lin,intrn,CGI_10024200,,,,scaffold485,883105,903474,1,gene,CGI_10024200,transcript,EKC36271,
+scaffold485,895451,DML_lin,intrn,CGI_10024200,,,,scaffold485,883105,903474,1,gene,CGI_10024200,transcript,EKC36271,
+scaffold514,121218,DML_dev,intrn,CGI_10018346,A2A9C3,1E-157,Protein SZT2,scaffold514,67103,122805,-1,gene,CGI_10018346,transcript,EKC35694,
+scaffold532,46292,DML_dev,intrn,CGI_10012520,Q0P5X1,6E-58,Leucine-rich repeat and IQ domain-containing protein 1,scaffold532,40447,58600,1,gene,CGI_10012520,transcript,EKC35547,Leucine-rich repeat and IQ domain-containing protein 1
+scaffold557,404929,DML_lin,intrn,CGI_10017980,P04069,7E-79,Carboxypeptidase B,scaffold557,401528,413927,1,gene,CGI_10017980,transcript,EKC35298,Carboxypeptidase B
+scaffold557,404982,DML_lin,intrn,CGI_10017980,P04069,7E-79,Carboxypeptidase B,scaffold557,401528,413927,1,gene,CGI_10017980,transcript,EKC35298,Carboxypeptidase B
+scaffold557,404994,DML_lin,intrn,CGI_10017980,P04069,7E-79,Carboxypeptidase B,scaffold557,401528,413927,1,gene,CGI_10017980,transcript,EKC35298,Carboxypeptidase B
+scaffold557,405416,DML_lin,intrn,CGI_10017980,P04069,7E-79,Carboxypeptidase B,scaffold557,401528,413927,1,gene,CGI_10017980,transcript,EKC35298,Carboxypeptidase B
+scaffold592,257381,DML_dev,CDS,CGI_10010709,Q3TFK5,7E-22,G patch domain-containing protein 4,scaffold592,250028,260602,1,gene,CGI_10010709,transcript,EKC34845,G patch domain-containing protein 4
+scaffold606,266817,DML_dev,intrn,CGI_10012951,Q9Z1P6,7E-14,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7,scaffold606,256516,270880,1,gene,CGI_10012951,transcript,EKC34600,NADH dehydrogenase
+scaffold625,751281,DML_lin,exon,CGI_10023437,Q9BXT4,2E-46,Tudor domain-containing protein 1,scaffold625,750522,771270,-1,gene,CGI_10023437,transcript,EKC34332,Tudor domain-containing protein 1
+scaffold659,155602,DML_dev,intrn,CGI_10014702,Q7Z442,2E-31,Polycystic kidney disease protein 1-like 2,scaffold659,154499,163825,-1,gene,CGI_10014702,transcript,EKC34076,Polycystic kidney disease and receptor for egg jelly-related protein
+scaffold678,190048,DML_dev,CDS,CGI_10026339,Q28D99,0,Glutamate decarboxylase-like protein 1,scaffold678,188179,191374,-1,gene,CGI_10026339,transcript,EKC33849,Cysteine sulfinic acid decarboxylase
+scaffold695,314697,DML_dev,CDS,CGI_10023281,Q9UKK3,0,Poly [ADP-ribose] polymerase 4,scaffold695,290841,338874,-1,gene,CGI_10023281,transcript,EKC33746,Poly
+scaffold695,314576,DML_lin,exon,CGI_10023281,Q9UKK3,0,Poly [ADP-ribose] polymerase 4,scaffold695,290841,338874,-1,gene,CGI_10023281,transcript,EKC33746,Poly
+scaffold695,315092,DML_lin,exon,CGI_10023281,Q9UKK3,0,Poly [ADP-ribose] polymerase 4,scaffold695,290841,338874,-1,gene,CGI_10023281,transcript,EKC33746,Poly
+scaffold721,379153,DML_dev,intrn,CGI_10022002,Q5RF77,1E-44,E3 ubiquitin-protein ligase CHFR,scaffold721,368498,397673,1,gene,CGI_10022002,transcript,EKC33510,E3 ubiquitin-protein ligase CHFR
+scaffold721,378853,DML_lin,intrn,CGI_10022002,Q5RF77,1E-44,E3 ubiquitin-protein ligase CHFR,scaffold721,368498,397673,1,gene,CGI_10022002,transcript,EKC33510,E3 ubiquitin-protein ligase CHFR
+scaffold754,266479,DML_lin,intrn,CGI_10014078,,,,scaffold754,259627,268954,-1,gene,CGI_10014078,transcript,EKC33166,
+scaffold759,199428,DML_lin,intrn,CGI_10010778,B4F6I5,2E-141,Adenosine monophosphate-protein transferase FICD,scaffold759,194784,198805,-1,gene,CGI_10010778,transcript,EKC33125,Adenosine monophosphate-protein transferase FICD
+scaffold759,205567,DML_lin,intrn,CGI_10010779,Q6DRI7,6E-140,ATP-dependent RNA helicase DDX51,scaffold759,198976,230823,1,gene,CGI_10010779,transcript,EKC33126,ATP-dependent RNA helicase DDX51
+scaffold760,128351,DML_lin,intrn,CGI_10023976,,,,scaffold760,117770,147032,1,gene,CGI_10023976,transcript,EKC33076,
+scaffold760,397593,DML_dev,intrn,CGI_10023987,E7F888,6E-33,AT-rich interactive domain-containing protein 5B,scaffold760,385984,400412,-1,gene,CGI_10023987,transcript,EKC33087,AT-rich interactive domain-containing protein 5B
+scaffold760,777234,DML_lin,exon,CGI_10024010,Q80U87,3E-128,Ubiquitin carboxyl-terminal hydrolase 8,scaffold760,769034,781440,-1,gene,CGI_10024010,transcript,EKC33109,Ubiquitin carboxyl-terminal hydrolase
+scaffold786,31882,DML_dev,intrn,CGI_10013691,Q9VI75,2E-91,Phosphatidylinositol-binding clathrin assembly protein LAP,scaffold786,3007,14490,-1,gene,CGI_10013691,transcript,EKC32833,Phosphatidylinositol-binding clathrin assembly protein LAP
+scaffold815,20326,DML_lin,intrn,CGI_10001932,Q80V70,4E-06,Multiple epidermal growth factor-like domains protein 6,scaffold815,3623,27508,-1,gene,CGI_10001932,transcript,EKC32585,
+scaffold850,64019,DML_dev,intrn,CGI_10011234,Q86TI2,3E-138,Dipeptidyl peptidase 9,scaffold850,48061,72012,-1,gene,CGI_10011234,transcript,EKC32376,Dipeptidyl peptidase 8
+scaffold868,93285,DML_dev,intrn,CGI_10006359,O43301,5E-68,Heat shock 70 kDa protein 12A,scaffold868,80143,112505,-1,gene,CGI_10006359,transcript,EKC32223,Heat shock 70 kDa protein 12B
+scaffold948,260196,DML_dev,intrn,CGI_10020015,Q9C0G6,0,"Dynein heavy chain 6, axonemal",scaffold948,219200,300594,1,gene,CGI_10020015,transcript,EKC31674,"Dynein heavy chain 6, axonemal "
+scaffold992,63410,DML_dev,intrn,CGI_10007507,Q8K1X1,5E-173,WD repeat-containing protein 11,scaffold992,58800,81897,-1,gene,CGI_10007507,transcript,EKC31285,Bromodomain and WD repeat-containing protein 2
+scaffold998,103542,DML_dev,intrn,CGI_10006464,,,,scaffold998,91399,104169,-1,gene,CGI_10006464,transcript,EKC31264,
+scaffold43116,66917,DML_dev,intrn,CGI_10008809,,,,,,,,,,,,
+scaffold41550,10799,DML_lin,intrn,CGI_10005235,,,,,,,,,,,,
+scaffold1879,102347,DML_dev,intrn,CGI_10007957,,,,,,,,,,,,
+scaffold200,36930,DML_lin,intrn,CGI_10006223,P03856,6E-43,Replication initiation protein,,,,,,,,,
+scaffold105,2443,DML_lin,exon,,,,,,,,,,,,,
+scaffold1650,402398,DML_lin,exon,,,,,,,,,,,,,
+scaffold42648,112742,DML_lin,exon,,,,,,,,,,,,,
+scaffold42648,112854,DML_lin,exon,,,,,,,,,,,,,
+scaffold42648,112935,DML_lin,exon,,,,,,,,,,,,,
+scaffold43798,327208,DML_lin,exon,,,,,,,,,,,,,
+scaffold43798,327228,DML_lin,exon,,,,,,,,,,,,,
+scaffold54,79558,DML_lin,exon,,,,,,,,,,,,,
+scaffold591,842764,DML_lin,exon,,,,,,,,,,,,,
+scaffold825,91302,DML_lin,exon,,,,,,,,,,,,,
+scaffold853,461655,DML_lin,exon,,,,,,,,,,,,,
+scaffold1385,14426,DML_dev,intrn,CGI_10013832,Q5XGY9,2E-69,Meiotic nuclear division protein 1 homolog,,,,,,,,,
+scaffold1337,180233,DML_dev,intrn,CGI_10012839,Q921L7,1E-29,HemK methyltransferase family member 1,,,,,,,,,
+scaffold852,66803,DML_dev,intrn,CGI_10012036,,,,,,,,,,,,
+scaffold42850,184869,DML_dev,intrn,CGI_10007931,Q90YQ0,5E-38,40S ribosomal protein S24,,,,,,,,,
+scaffold1307,395356,DML_dev,intrn,CGI_10023757,Q14149,7E-44,MORC family CW-type zinc finger protein 3,,,,,,,,,
+scaffold1507,7227,DML_lin,intrn,CGI_10001767,,,,,,,,,,,,
